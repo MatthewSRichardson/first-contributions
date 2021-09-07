@@ -13876,6 +13876,7 @@
 - [aran159](https://github.com/aran159)
 - [Trang](https://github.com/maitrang85)
 - [Miras Talaspayev](https://github.com/MirasTalaspayev)
+- [Matthew Richardson](https://github.com/MatthewSRichardson)
 - [William Ahern](https://github.com/william-ahern) 🧙‍♂️
 - [Kraiza Samuel M.](https://github.com/KRAiza)
 - [Ko Miyatake](https://github.com/kome12)
@@ -14035,3 +14036,4 @@
 - [A-Cer23](https://github.com/A-Cer23)
 - [Jeffrey-0](https://github.com/Jeffrey-0)
 - [MuskanGupta1503](https://github.com/MuskanGupta1503)
+
